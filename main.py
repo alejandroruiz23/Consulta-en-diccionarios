@@ -31,7 +31,7 @@ def cliente(informacion:dict):
     atraccion = "N/A"
     apto = False
     total_boleta = "N/A"
-
+  #para cargar todo el diccionario
   diccionario = {
     "nombre":nombre,
     "edad": edad,
